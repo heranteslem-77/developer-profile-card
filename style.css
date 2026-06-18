@@ -1,10 +1,13 @@
-            body{background-image: linear-gradient(to right, yellow, green); }
-            h1{
-                color:blue;
-                font-size: 40px;
-                            }
-             p{
-                color:Brown;
-                background-color:lightgreen;
-                font-size: 20px;
-             }               
+body{
+    background-image: linear-gradient(to right, yellow,red);
+}
+#better { width:300px;
+    border:2px solid blue ;
+    padding:30px;
+    margin:20px ;
+    background-color:white;
+    color:brown;
+}
+p{
+    color:green;
+}
